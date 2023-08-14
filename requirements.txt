@@ -1,4 +1,0 @@
-langchain
-openai
-boto3
-terraform
