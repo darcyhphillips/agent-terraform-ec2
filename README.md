@@ -22,7 +22,7 @@ This [Langchain](https://docs.langchain.com/docs/) agent is used to copy a Terra
 pip install -r ./requirements.txt -q
 ```
 
-3. Replace the following lines in ec2_template.tf
+2. Replace the following lines in ec2_template.tf
 ```
 key_name                    = # enter your key ""
 vpc_security_group_ids      = # enter your SG Id ["sg-"]
