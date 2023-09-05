@@ -1,7 +1,7 @@
 <!-- DOCUMENTATION -->
 ## Documentation
 
-Terraform documentation [is available here]([https://easybase.io/docs/easybase-react/](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance).
+Terraform documentation [is available here](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance).
 
 Langchain agent documentation [can be found here](https://python.langchain.com/docs/modules/agents/tools.html).
 
