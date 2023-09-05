@@ -1,9 +1,9 @@
 <!-- DOCUMENTATION -->
 ## Documentation
 
-Terraform documentation [is available here]([https://easybase.io/docs/easybase-react/](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance)).
+Terraform documentation [is available here]([https://easybase.io/docs/easybase-react/](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance).
 
-Langchain agent documentation [can be found here]([https://easybase.github.io/EasyQB/](https://python.langchain.com/docs/modules/agents/tools.html)https://python.langchain.com/docs/modules/agents/tools.html).
+Langchain agent documentation [can be found here](https://python.langchain.com/docs/modules/agents/tools.html).
 
 YouTube inspiration [can be found here](https://www.youtube.com/watch?v=q-HNphrWsDE&list=PLRmfjgxkmfP0q6vBXZUFTzMX7RbKjDzAg&index=2&t=975s&pp=gAQBiAQB).
 
