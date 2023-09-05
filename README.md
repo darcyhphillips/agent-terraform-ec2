@@ -19,7 +19,7 @@ This [Langchain](https://docs.langchain.com/docs/) agent is used to copy a Terra
 
 1. To get started use the requirements.txt file
 ```
-pip install requirements.txt
+pip install -r ./requirements.txt -q
 ```
 
 3. Replace the following lines in ec2_template.tf
