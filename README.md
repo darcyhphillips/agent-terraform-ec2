@@ -12,16 +12,16 @@ YouTube inspiration [can be found here](https://www.youtube.com/watch?v=q-HNphrW
 ## Getting Started
 
 1. To get started use the requirements.txt file
-'''
+```
 pip install requirements.txt
-'''
+```
 
-2. Replace the following lines in ec2_template.tf
-'''
+3. Replace the following lines in ec2_template.tf
+```
 key_name                    = # enter your key ""
 vpc_security_group_ids      = # enter your SG Id ["sg-"]
 subnet_id                   = # enter your subnet "subnet-"
-'''
+```
 
 <!-- WHAT IS DOES -->
 ## What does this agent do?
